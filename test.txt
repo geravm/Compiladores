@@ -1,0 +1,7 @@
+// comentario
+begin
+y = 0x3d5a;    // comentario
+z = 0.32e-4;   // otro comentario
+if x + 34 > y OR z == 0.4 then begin(x, y);
+else program(y, x);
+end
